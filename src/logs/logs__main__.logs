@@ -1,0 +1,185 @@
+2021-10-26 07:04:39,222 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:04:39,225 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:04:39,228 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:04:39,502 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:04:39,546 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 07:04:44,798 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 07:04:44,799 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='False', meta={}) 
+2021-10-26 07:05:18,626 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:05:18,626 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:05:18,630 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:05:18,854 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:05:18,863 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 07:05:20,538 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 07:05:20,540 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='False', meta={}) 
+2021-10-26 07:13:57,454 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:13:57,454 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:13:57,458 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:13:57,674 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:22:43,055 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:22:43,055 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:22:43,059 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:22:43,272 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:31:38,924 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:31:38,925 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:31:38,930 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:31:39,143 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:39:40,022 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:39:40,023 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:39:40,026 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:39:40,237 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:44:23,993 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:44:23,994 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:44:23,998 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:44:24,210 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:45:35,431 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:45:35,431 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:45:35,434 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:45:35,645 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:49:13,387 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:49:13,387 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:49:13,390 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:49:13,602 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:51:29,178 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:51:29,179 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:51:29,182 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:51:29,394 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:52:29,047 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:52:29,048 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:52:29,051 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:52:29,263 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:56:58,334 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:56:58,334 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:56:58,337 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:56:58,549 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:57:24,316 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:57:24,316 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:57:24,319 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:57:24,531 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 07:57:34,591 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 07:57:34,592 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 07:57:34,595 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 07:57:34,807 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:17:15,258 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:17:15,258 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:17:15,262 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:17:15,478 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:17:39,432 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:17:39,432 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:17:39,435 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:17:39,647 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:17:52,052 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:17:52,052 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:17:52,055 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:17:52,266 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:18:08,717 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:18:08,717 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:18:08,720 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:18:08,932 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:18:08,940 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 08:18:11,438 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 08:18:11,439 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='True', meta={}) 
+2021-10-26 08:22:54,040 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:22:54,041 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:22:54,046 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:22:54,260 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:23:14,966 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:23:14,966 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:23:14,969 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:23:15,179 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:28:22,835 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:28:22,835 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:28:22,839 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:28:23,049 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:30:40,426 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:30:40,426 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:30:40,429 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:30:40,638 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:31:33,201 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:31:33,202 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:31:33,205 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:31:33,415 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:33:29,241 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:33:29,241 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:33:29,243 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:33:29,455 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:33:29,478 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 08:33:32,132 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 08:33:32,133 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='True', meta={}) 
+2021-10-26 08:37:01,663 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:37:01,663 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:37:01,669 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:37:01,882 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:49:22,252 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:49:22,253 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:49:22,260 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:49:22,475 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:53:36,496 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:53:36,496 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:53:36,499 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:53:36,709 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:53:58,540 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:53:58,541 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:53:58,544 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:53:58,758 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:54:21,581 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:54:21,581 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:54:21,584 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:54:21,794 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:54:39,129 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:54:39,130 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:54:39,133 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:54:39,345 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:57:26,234 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:57:26,234 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:57:26,239 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:57:26,453 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:57:39,016 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:57:39,016 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:57:39,020 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:57:39,232 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:58:01,927 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:58:01,927 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:58:01,931 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:58:02,146 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:58:10,526 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:58:10,527 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:58:10,535 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:58:10,747 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:58:19,926 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:58:19,926 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:58:19,929 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:58:20,140 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 08:58:45,589 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 08:58:45,590 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 08:58:45,593 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 08:58:45,806 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:03:18,200 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 09:03:18,201 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 09:03:18,206 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 09:03:18,427 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:04:40,358 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 09:04:40,359 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 09:04:40,369 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 09:04:40,602 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:08:29,761 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 09:08:29,762 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 09:08:29,766 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 09:08:29,984 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:08:30,009 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 09:08:34,332 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 09:08:34,334 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='True', meta={}) 
+2021-10-26 09:09:13,150 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 09:09:13,151 — __main__ — INFO —<module>:66 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 09:09:13,161 — __main__ — INFO —<module>:84 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 09:09:13,400 — __main__ — INFO —<module>:90 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:09:13,419 — __main__ — INFO —<module>:94 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 09:09:17,755 — __main__ — INFO —<module>:97 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 09:09:17,757 — __main__ — INFO —<module>:102 - MainProcess - MainThread - Using PubSub PropertyTuple(data='True', meta={}) 
+2021-10-26 09:13:50,730 — __main__ — INFO —<module>:64 - MainProcess - MainThread - Application Initialized... 
+2021-10-26 09:13:50,731 — __main__ — INFO —<module>:65 - MainProcess - MainThread - Loading Configuration Files 
+2021-10-26 09:13:50,747 — __main__ — INFO —<module>:77 - MainProcess - MainThread - Creating Kafka Producer & Consumer Clients 
+2021-10-26 09:13:51,002 — __main__ — INFO —<module>:81 - MainProcess - MainThread - Creating Google Pub/Sub Clients 
+2021-10-26 09:13:51,046 — __main__ — INFO —<module>:85 - MainProcess - MainThread - Fetching Model Utilities 
+2021-10-26 09:13:59,848 — __main__ — INFO —<module>:88 - MainProcess - MainThread - Creating Aerospike Client 
+2021-10-26 09:13:59,851 — __main__ — INFO —<module>:93 - MainProcess - MainThread - Using PubSub PropertyTuple(data='True', meta={}) 
