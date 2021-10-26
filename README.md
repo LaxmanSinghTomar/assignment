@@ -50,6 +50,44 @@ python3 src/app.py
 
 ## Development
 [(Back to Top)](#table-of-contents)
+<pre>
+├── models                      # Model Directory comprising Trained Model Files
+│   └── fashion_mnist_cnn
+│       ├── assets
+│       ├── keras_metadata.pb
+│       ├── saved_model.pb
+│       └── variables
+│           ├── variables.data-00000-of-00001
+│           └── variables.index
+├── notebooks               # Jupyter Notebook comprising Model Experimentation.
+│   └── train_CNN.ipynb
+└── src                     # Python Scripts
+    ├── aerospike                           # AeroSpike DB
+    │   └──aerospike_config.properties
+    ├── app.py                              # Main Application
+    ├── config                              # Configuration Directory
+    │   ├── app_config.properties
+    │   ├── constants_config.py
+    │   ├── logging_config.py
+    │   └── runtime_config.py
+    ├── kafka_module                        # Kafka Module Scripts + Configs
+    │   ├── consumer_config.properties
+    │   ├── consumer.py
+    │   ├── producer_config.properties
+    │   └── producer.py
+    ├── logs                                # Generated Logs
+    │   ├── logs__main__.logs
+    │   └── logs__main__.logs.2021-10-25
+    ├── models                              # Model Training & Utilities
+    │   ├── train.py
+    │   └── utils.py
+    └── pubsub                              # Pub/Sub Module Scripts + Configs
+        ├── publisher_config.properties
+        ├── publisher.py
+        ├── subscriber_config.properties
+        └── subscriber.py
+</pre>
+
 
 ## License
 [(Back to top)](#table-of-contents)
